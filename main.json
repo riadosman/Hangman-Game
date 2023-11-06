@@ -1,0 +1,20 @@
+{
+    "Programing": [
+        "html","css","js","php","sass","node.js","go","sql","laravel"
+    ],
+    "Movies": [
+        "prestige","inception","parasite","interstellar","whiplash","momento","coco","up"
+    ],
+    "People": [
+        "albert einstein","hitchocock","alexander","cleopatra","mahatma gandi"
+    ],
+    "Countries": [
+        "syria","palestine","yemen","egypt","bahrain","qatar"
+    ],
+    "Name":[
+        "Cecilia","Monica","Aubrey","Grace","Noa","Scarlett","Miles","Deborah"
+    ],
+    "Software Term":["API", "Cache", "Client Server Architecture", "Refactor", "HTTP", "Unit Testing","Framework","Library"
+        ,"Load Balancing" , "CI", "CD","Environment", "Hotfix", "Code Smells","Key Takeaways", "Compiler"
+    ]
+}
